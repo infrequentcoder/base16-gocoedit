@@ -1,0 +1,4 @@
+---
+default:
+    extension: .gcetheme
+    output: Themes
