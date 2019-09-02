@@ -1,0 +1,29 @@
+{
+    "name": "base16-Material Palenight",
+    // originator: Nate Peterson - material-palenight
+    "defaults": {
+        "text_color":"959DCB",
+        "background":"292D3E",
+        "activeline_background":"32374D",
+        "matchingbracket_color":"89DDFF"
+    },
+    "gutters": {
+        "background":"444267",
+        "text_color":"676E95",
+        "border_color":"444267"
+    },
+    "tokens": {
+        "comment_color":"676E95",
+        "number_color":"F78C6C",
+        "property_color":"F07178",
+        "attribute_color":"F78C6C",
+        "keyword_color":"C792EA",
+        "string_color":"C3E88D",
+        "variable_color":"F07178",
+        "def_color":"82AAFF",
+        "bracket_color":"959DCB",
+        "tag_color":"F07178",
+        "header_color":"FFCB6B",
+        "link_color":"F78C6C"
+    }
+}

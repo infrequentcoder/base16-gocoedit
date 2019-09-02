@@ -1,0 +1,29 @@
+{
+    "name": "base16-PaperColor Dark",
+    // originator: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme) - papercolor-dark
+    "defaults": {
+        "text_color":"808080",
+        "background":"1c1c1c",
+        "activeline_background":"5faf00",
+        "matchingbracket_color":"ffaf00"
+    },
+    "gutters": {
+        "background":"af005f",
+        "text_color":"d7af5f",
+        "border_color":"af005f"
+    },
+    "tokens": {
+        "comment_color":"d7af5f",
+        "number_color":"5faf5f",
+        "property_color":"585858",
+        "attribute_color":"5faf5f",
+        "keyword_color":"00afaf",
+        "string_color":"af87d7",
+        "variable_color":"585858",
+        "def_color":"ff5faf",
+        "bracket_color":"808080",
+        "tag_color":"585858",
+        "header_color":"afd700",
+        "link_color":"5faf5f"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Grayscale Dark",
+    // originator: Alexandre Gavioli (https://github.com/Alexx2/) - grayscale-dark
+    "defaults": {
+        "text_color":"b9b9b9",
+        "background":"101010",
+        "activeline_background":"464646",
+        "matchingbracket_color":"868686"
+    },
+    "gutters": {
+        "background":"252525",
+        "text_color":"525252",
+        "border_color":"252525"
+    },
+    "tokens": {
+        "comment_color":"525252",
+        "number_color":"999999",
+        "property_color":"7c7c7c",
+        "attribute_color":"999999",
+        "keyword_color":"747474",
+        "string_color":"8e8e8e",
+        "variable_color":"7c7c7c",
+        "def_color":"686868",
+        "bracket_color":"b9b9b9",
+        "tag_color":"7c7c7c",
+        "header_color":"a0a0a0",
+        "link_color":"999999"
+    }
+}

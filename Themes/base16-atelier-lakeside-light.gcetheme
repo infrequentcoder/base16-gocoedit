@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Lakeside Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-lakeside-light
+    "defaults": {
+        "text_color":"516d7b",
+        "background":"ebf8ff",
+        "activeline_background":"7ea2b4",
+        "matchingbracket_color":"2d8f6f"
+    },
+    "gutters": {
+        "background":"c1e4f6",
+        "text_color":"7195a8",
+        "border_color":"c1e4f6"
+    },
+    "tokens": {
+        "comment_color":"7195a8",
+        "number_color":"935c25",
+        "property_color":"d22d72",
+        "attribute_color":"935c25",
+        "keyword_color":"6b6bb8",
+        "string_color":"568c3b",
+        "variable_color":"d22d72",
+        "def_color":"257fad",
+        "bracket_color":"516d7b",
+        "tag_color":"d22d72",
+        "header_color":"8a8a0f",
+        "link_color":"935c25"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Cupertino",
+    // originator: Defman21 - cupertino
+    "defaults": {
+        "text_color":"404040",
+        "background":"ffffff",
+        "activeline_background":"c0c0c0",
+        "matchingbracket_color":"318495"
+    },
+    "gutters": {
+        "background":"c0c0c0",
+        "text_color":"808080",
+        "border_color":"c0c0c0"
+    },
+    "tokens": {
+        "comment_color":"808080",
+        "number_color":"eb8500",
+        "property_color":"c41a15",
+        "attribute_color":"eb8500",
+        "keyword_color":"a90d91",
+        "string_color":"007400",
+        "variable_color":"c41a15",
+        "def_color":"0000ff",
+        "bracket_color":"404040",
+        "tag_color":"c41a15",
+        "header_color":"826b28",
+        "link_color":"eb8500"
+    }
+}

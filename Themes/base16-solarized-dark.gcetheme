@@ -1,0 +1,29 @@
+{
+    "name": "base16-Solarized Dark",
+    // originator: Ethan Schoonover (modified by aramisgithub) - solarized-dark
+    "defaults": {
+        "text_color":"93a1a1",
+        "background":"002b36",
+        "activeline_background":"586e75",
+        "matchingbracket_color":"2aa198"
+    },
+    "gutters": {
+        "background":"073642",
+        "text_color":"657b83",
+        "border_color":"073642"
+    },
+    "tokens": {
+        "comment_color":"657b83",
+        "number_color":"cb4b16",
+        "property_color":"dc322f",
+        "attribute_color":"cb4b16",
+        "keyword_color":"6c71c4",
+        "string_color":"859900",
+        "variable_color":"dc322f",
+        "def_color":"268bd2",
+        "bracket_color":"93a1a1",
+        "tag_color":"dc322f",
+        "header_color":"b58900",
+        "link_color":"cb4b16"
+    }
+}

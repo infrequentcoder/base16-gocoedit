@@ -1,0 +1,29 @@
+{
+    "name": "base16-iA Light",
+    // originator: iA Inc. (modified by aramisgithub) - ia-light
+    "defaults": {
+        "text_color":"181818",
+        "background":"f6f6f6",
+        "activeline_background":"bde5f2",
+        "matchingbracket_color":"2d6bb1"
+    },
+    "gutters": {
+        "background":"dedede",
+        "text_color":"898989",
+        "border_color":"dedede"
+    },
+    "tokens": {
+        "comment_color":"898989",
+        "number_color":"c43e18",
+        "property_color":"9c5a02",
+        "attribute_color":"c43e18",
+        "keyword_color":"a94598",
+        "string_color":"38781c",
+        "variable_color":"9c5a02",
+        "def_color":"48bac2",
+        "bracket_color":"181818",
+        "tag_color":"9c5a02",
+        "header_color":"c48218",
+        "link_color":"c43e18"
+    }
+}

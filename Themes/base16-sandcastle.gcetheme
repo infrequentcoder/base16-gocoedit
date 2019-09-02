@@ -1,0 +1,29 @@
+{
+    "name": "base16-Sandcastle",
+    // originator: George Essig (https://github.com/gessig) - sandcastle
+    "defaults": {
+        "text_color":"a89984",
+        "background":"282c34",
+        "activeline_background":"3e4451",
+        "matchingbracket_color":"83a598"
+    },
+    "gutters": {
+        "background":"2c323b",
+        "text_color":"665c54",
+        "border_color":"2c323b"
+    },
+    "tokens": {
+        "comment_color":"665c54",
+        "number_color":"a07e3b",
+        "property_color":"83a598",
+        "attribute_color":"a07e3b",
+        "keyword_color":"d75f5f",
+        "string_color":"528b8b",
+        "variable_color":"83a598",
+        "def_color":"83a598",
+        "bracket_color":"a89984",
+        "tag_color":"83a598",
+        "header_color":"a07e3b",
+        "link_color":"a07e3b"
+    }
+}

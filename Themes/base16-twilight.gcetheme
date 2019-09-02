@@ -1,0 +1,29 @@
+{
+    "name": "base16-Twilight",
+    // originator: David Hart (https://github.com/hartbit) - twilight
+    "defaults": {
+        "text_color":"a7a7a7",
+        "background":"1e1e1e",
+        "activeline_background":"464b50",
+        "matchingbracket_color":"afc4db"
+    },
+    "gutters": {
+        "background":"323537",
+        "text_color":"5f5a60",
+        "border_color":"323537"
+    },
+    "tokens": {
+        "comment_color":"5f5a60",
+        "number_color":"cda869",
+        "property_color":"cf6a4c",
+        "attribute_color":"cda869",
+        "keyword_color":"9b859d",
+        "string_color":"8f9d6a",
+        "variable_color":"cf6a4c",
+        "def_color":"7587a6",
+        "bracket_color":"a7a7a7",
+        "tag_color":"cf6a4c",
+        "header_color":"f9ee98",
+        "link_color":"cda869"
+    }
+}

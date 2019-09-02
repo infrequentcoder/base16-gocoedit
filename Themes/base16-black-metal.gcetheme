@@ -1,0 +1,29 @@
+{
+    "name": "base16-Black Metal",
+    // originator: metalelf0 (https://github.com/metalelf0) - black-metal
+    "defaults": {
+        "text_color":"c1c1c1",
+        "background":"000000",
+        "activeline_background":"222222",
+        "matchingbracket_color":"aaaaaa"
+    },
+    "gutters": {
+        "background":"121212",
+        "text_color":"333333",
+        "border_color":"121212"
+    },
+    "tokens": {
+        "comment_color":"333333",
+        "number_color":"aaaaaa",
+        "property_color":"5f8787",
+        "attribute_color":"aaaaaa",
+        "keyword_color":"999999",
+        "string_color":"dd9999",
+        "variable_color":"5f8787",
+        "def_color":"888888",
+        "bracket_color":"c1c1c1",
+        "tag_color":"5f8787",
+        "header_color":"a06666",
+        "link_color":"aaaaaa"
+    }
+}

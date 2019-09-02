@@ -1,0 +1,29 @@
+{
+    "name": "base16-Spacemacs",
+    // originator: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme) - spacemacs
+    "defaults": {
+        "text_color":"a3a3a3",
+        "background":"1f2022",
+        "activeline_background":"444155",
+        "matchingbracket_color":"2d9574"
+    },
+    "gutters": {
+        "background":"282828",
+        "text_color":"585858",
+        "border_color":"282828"
+    },
+    "tokens": {
+        "comment_color":"585858",
+        "number_color":"ffa500",
+        "property_color":"f2241f",
+        "attribute_color":"ffa500",
+        "keyword_color":"a31db1",
+        "string_color":"67b11d",
+        "variable_color":"f2241f",
+        "def_color":"4f97d7",
+        "bracket_color":"a3a3a3",
+        "tag_color":"f2241f",
+        "header_color":"b1951d",
+        "link_color":"ffa500"
+    }
+}

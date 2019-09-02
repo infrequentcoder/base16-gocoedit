@@ -1,0 +1,29 @@
+{
+    "name": "base16-Bright",
+    // originator: Chris Kempson (http://chriskempson.com) - bright
+    "defaults": {
+        "text_color":"e0e0e0",
+        "background":"000000",
+        "activeline_background":"505050",
+        "matchingbracket_color":"76c7b7"
+    },
+    "gutters": {
+        "background":"303030",
+        "text_color":"b0b0b0",
+        "border_color":"303030"
+    },
+    "tokens": {
+        "comment_color":"b0b0b0",
+        "number_color":"fc6d24",
+        "property_color":"fb0120",
+        "attribute_color":"fc6d24",
+        "keyword_color":"d381c3",
+        "string_color":"a1c659",
+        "variable_color":"fb0120",
+        "def_color":"6fb3d2",
+        "bracket_color":"e0e0e0",
+        "tag_color":"fb0120",
+        "header_color":"fda331",
+        "link_color":"fc6d24"
+    }
+}

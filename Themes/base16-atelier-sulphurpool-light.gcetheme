@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Sulphurpool Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-sulphurpool-light
+    "defaults": {
+        "text_color":"5e6687",
+        "background":"f5f7ff",
+        "activeline_background":"979db4",
+        "matchingbracket_color":"22a2c9"
+    },
+    "gutters": {
+        "background":"dfe2f1",
+        "text_color":"898ea4",
+        "border_color":"dfe2f1"
+    },
+    "tokens": {
+        "comment_color":"898ea4",
+        "number_color":"c76b29",
+        "property_color":"c94922",
+        "attribute_color":"c76b29",
+        "keyword_color":"6679cc",
+        "string_color":"ac9739",
+        "variable_color":"c94922",
+        "def_color":"3d8fd1",
+        "bracket_color":"5e6687",
+        "tag_color":"c94922",
+        "header_color":"c08b30",
+        "link_color":"c76b29"
+    }
+}

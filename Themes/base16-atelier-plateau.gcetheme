@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Plateau",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-plateau
+    "defaults": {
+        "text_color":"8a8585",
+        "background":"1b1818",
+        "activeline_background":"585050",
+        "matchingbracket_color":"5485b6"
+    },
+    "gutters": {
+        "background":"292424",
+        "text_color":"655d5d",
+        "border_color":"292424"
+    },
+    "tokens": {
+        "comment_color":"655d5d",
+        "number_color":"b45a3c",
+        "property_color":"ca4949",
+        "attribute_color":"b45a3c",
+        "keyword_color":"8464c4",
+        "string_color":"4b8b8b",
+        "variable_color":"ca4949",
+        "def_color":"7272ca",
+        "bracket_color":"8a8585",
+        "tag_color":"ca4949",
+        "header_color":"a06e3b",
+        "link_color":"b45a3c"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Railscasts",
+    // originator: Ryan Bates (http://railscasts.com) - railscasts
+    "defaults": {
+        "text_color":"e6e1dc",
+        "background":"2b2b2b",
+        "activeline_background":"3a4055",
+        "matchingbracket_color":"519f50"
+    },
+    "gutters": {
+        "background":"272935",
+        "text_color":"5a647e",
+        "border_color":"272935"
+    },
+    "tokens": {
+        "comment_color":"5a647e",
+        "number_color":"cc7833",
+        "property_color":"da4939",
+        "attribute_color":"cc7833",
+        "keyword_color":"b6b3eb",
+        "string_color":"a5c261",
+        "variable_color":"da4939",
+        "def_color":"6d9cbe",
+        "bracket_color":"e6e1dc",
+        "tag_color":"da4939",
+        "header_color":"ffc66d",
+        "link_color":"cc7833"
+    }
+}

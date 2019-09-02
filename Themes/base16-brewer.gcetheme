@@ -1,0 +1,29 @@
+{
+    "name": "base16-Brewer",
+    // originator: Timothée Poisot (http://github.com/tpoisot) - brewer
+    "defaults": {
+        "text_color":"b7b8b9",
+        "background":"0c0d0e",
+        "activeline_background":"515253",
+        "matchingbracket_color":"80b1d3"
+    },
+    "gutters": {
+        "background":"2e2f30",
+        "text_color":"737475",
+        "border_color":"2e2f30"
+    },
+    "tokens": {
+        "comment_color":"737475",
+        "number_color":"e6550d",
+        "property_color":"e31a1c",
+        "attribute_color":"e6550d",
+        "keyword_color":"756bb1",
+        "string_color":"31a354",
+        "variable_color":"e31a1c",
+        "def_color":"3182bd",
+        "bracket_color":"b7b8b9",
+        "tag_color":"e31a1c",
+        "header_color":"dca060",
+        "link_color":"e6550d"
+    }
+}

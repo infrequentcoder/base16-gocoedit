@@ -1,0 +1,29 @@
+{
+    "name": "base16-Bespin",
+    // originator: Jan T. Sott - bespin
+    "defaults": {
+        "text_color":"8a8986",
+        "background":"28211c",
+        "activeline_background":"5e5d5c",
+        "matchingbracket_color":"afc4db"
+    },
+    "gutters": {
+        "background":"36312e",
+        "text_color":"666666",
+        "border_color":"36312e"
+    },
+    "tokens": {
+        "comment_color":"666666",
+        "number_color":"cf7d34",
+        "property_color":"cf6a4c",
+        "attribute_color":"cf7d34",
+        "keyword_color":"9b859d",
+        "string_color":"54be0d",
+        "variable_color":"cf6a4c",
+        "def_color":"5ea6ea",
+        "bracket_color":"8a8986",
+        "tag_color":"cf6a4c",
+        "header_color":"f9ee98",
+        "link_color":"cf7d34"
+    }
+}

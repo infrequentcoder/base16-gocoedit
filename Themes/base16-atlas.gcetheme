@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atlas",
+    // originator: Alex Lende (https://ajlende.com) - atlas
+    "defaults": {
+        "text_color":"a1a19a",
+        "background":"002635",
+        "activeline_background":"517F8D",
+        "matchingbracket_color":"14747e"
+    },
+    "gutters": {
+        "background":"00384d",
+        "text_color":"6C8B91",
+        "border_color":"00384d"
+    },
+    "tokens": {
+        "comment_color":"6C8B91",
+        "number_color":"f08e48",
+        "property_color":"ff5a67",
+        "attribute_color":"f08e48",
+        "keyword_color":"9a70a4",
+        "string_color":"7fc06e",
+        "variable_color":"ff5a67",
+        "def_color":"5dd7b9",
+        "bracket_color":"a1a19a",
+        "tag_color":"ff5a67",
+        "header_color":"ffcc1b",
+        "link_color":"f08e48"
+    }
+}

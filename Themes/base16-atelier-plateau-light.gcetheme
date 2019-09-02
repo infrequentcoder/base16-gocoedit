@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Plateau Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-plateau-light
+    "defaults": {
+        "text_color":"585050",
+        "background":"f4ecec",
+        "activeline_background":"8a8585",
+        "matchingbracket_color":"5485b6"
+    },
+    "gutters": {
+        "background":"e7dfdf",
+        "text_color":"7e7777",
+        "border_color":"e7dfdf"
+    },
+    "tokens": {
+        "comment_color":"7e7777",
+        "number_color":"b45a3c",
+        "property_color":"ca4949",
+        "attribute_color":"b45a3c",
+        "keyword_color":"8464c4",
+        "string_color":"4b8b8b",
+        "variable_color":"ca4949",
+        "def_color":"7272ca",
+        "bracket_color":"585050",
+        "tag_color":"ca4949",
+        "header_color":"a06e3b",
+        "link_color":"b45a3c"
+    }
+}

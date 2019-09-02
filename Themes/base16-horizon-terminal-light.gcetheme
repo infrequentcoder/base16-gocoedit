@@ -1,0 +1,29 @@
+{
+    "name": "base16-Horizon Light",
+    // originator: Michaël Ball (http://github.com/michael-ball/) - horizon-terminal-light
+    "defaults": {
+        "text_color":"403C3D",
+        "background":"FDF0ED",
+        "activeline_background":"F9CBBE",
+        "matchingbracket_color":"59E1E3"
+    },
+    "gutters": {
+        "background":"FADAD1",
+        "text_color":"BDB3B1",
+        "border_color":"FADAD1"
+    },
+    "tokens": {
+        "comment_color":"BDB3B1",
+        "number_color":"F9CEC3",
+        "property_color":"E95678",
+        "attribute_color":"F9CEC3",
+        "keyword_color":"EE64AC",
+        "string_color":"29D398",
+        "variable_color":"E95678",
+        "def_color":"26BBD9",
+        "bracket_color":"403C3D",
+        "tag_color":"E95678",
+        "header_color":"FADAD1",
+        "link_color":"F9CEC3"
+    }
+}

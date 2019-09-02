@@ -1,0 +1,29 @@
+{
+    "name": "base16-Dracula",
+    // originator: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula) - dracula
+    "defaults": {
+        "text_color":"e9e9f4",
+        "background":"282936",
+        "activeline_background":"4d4f68",
+        "matchingbracket_color":"a1efe4"
+    },
+    "gutters": {
+        "background":"3a3c4e",
+        "text_color":"626483",
+        "border_color":"3a3c4e"
+    },
+    "tokens": {
+        "comment_color":"626483",
+        "number_color":"b45bcf",
+        "property_color":"ea51b2",
+        "attribute_color":"b45bcf",
+        "keyword_color":"b45bcf",
+        "string_color":"ebff87",
+        "variable_color":"ea51b2",
+        "def_color":"62d6e8",
+        "bracket_color":"e9e9f4",
+        "tag_color":"ea51b2",
+        "header_color":"00f769",
+        "link_color":"b45bcf"
+    }
+}

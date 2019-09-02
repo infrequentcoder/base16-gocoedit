@@ -1,0 +1,29 @@
+{
+    "name": "base16-Apathy",
+    // originator: Jannik Siebert (https://github.com/janniks) - apathy
+    "defaults": {
+        "text_color":"81B5AC",
+        "background":"031A16",
+        "activeline_background":"184E45",
+        "matchingbracket_color":"963E4C"
+    },
+    "gutters": {
+        "background":"0B342D",
+        "text_color":"2B685E",
+        "border_color":"0B342D"
+    },
+    "tokens": {
+        "comment_color":"2B685E",
+        "number_color":"3E7996",
+        "property_color":"3E9688",
+        "attribute_color":"3E7996",
+        "keyword_color":"4C963E",
+        "string_color":"883E96",
+        "variable_color":"3E9688",
+        "def_color":"96883E",
+        "bracket_color":"81B5AC",
+        "tag_color":"3E9688",
+        "header_color":"3E4C96",
+        "link_color":"3E7996"
+    }
+}

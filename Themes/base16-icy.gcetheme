@@ -1,0 +1,29 @@
+{
+    "name": "base16-Icy Dark",
+    // originator: icyphox (https://icyphox.ga) - icy
+    "defaults": {
+        "text_color":"095b67",
+        "background":"021012",
+        "activeline_background":"041f23",
+        "matchingbracket_color":"26c6da"
+    },
+    "gutters": {
+        "background":"031619",
+        "text_color":"052e34",
+        "border_color":"031619"
+    },
+    "tokens": {
+        "comment_color":"052e34",
+        "number_color":"b3ebf2",
+        "property_color":"16c1d9",
+        "attribute_color":"b3ebf2",
+        "keyword_color":"00acc1",
+        "string_color":"4dd0e1",
+        "variable_color":"16c1d9",
+        "def_color":"00bcd4",
+        "bracket_color":"095b67",
+        "tag_color":"16c1d9",
+        "header_color":"80deea",
+        "link_color":"b3ebf2"
+    }
+}

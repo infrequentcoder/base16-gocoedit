@@ -1,0 +1,29 @@
+{
+    "name": "base16-Codeschool",
+    // originator: blockloop - codeschool
+    "defaults": {
+        "text_color":"9ea7a6",
+        "background":"232c31",
+        "activeline_background":"2a343a",
+        "matchingbracket_color":"b02f30"
+    },
+    "gutters": {
+        "background":"1c3657",
+        "text_color":"3f4944",
+        "border_color":"1c3657"
+    },
+    "tokens": {
+        "comment_color":"3f4944",
+        "number_color":"43820d",
+        "property_color":"2a5491",
+        "attribute_color":"43820d",
+        "keyword_color":"c59820",
+        "string_color":"237986",
+        "variable_color":"2a5491",
+        "def_color":"484d79",
+        "bracket_color":"9ea7a6",
+        "tag_color":"2a5491",
+        "header_color":"a03b1e",
+        "link_color":"43820d"
+    }
+}

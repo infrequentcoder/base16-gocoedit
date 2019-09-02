@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Heath Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-heath-light
+    "defaults": {
+        "text_color":"695d69",
+        "background":"f7f3f7",
+        "activeline_background":"ab9bab",
+        "matchingbracket_color":"159393"
+    },
+    "gutters": {
+        "background":"d8cad8",
+        "text_color":"9e8f9e",
+        "border_color":"d8cad8"
+    },
+    "tokens": {
+        "comment_color":"9e8f9e",
+        "number_color":"a65926",
+        "property_color":"ca402b",
+        "attribute_color":"a65926",
+        "keyword_color":"7b59c0",
+        "string_color":"918b3b",
+        "variable_color":"ca402b",
+        "def_color":"516aec",
+        "bracket_color":"695d69",
+        "tag_color":"ca402b",
+        "header_color":"bb8a35",
+        "link_color":"a65926"
+    }
+}

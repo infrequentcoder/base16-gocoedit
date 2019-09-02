@@ -1,0 +1,29 @@
+{
+    "name": "base16-Mexico Light",
+    // originator: Sheldon Johnson - mexico-light
+    "defaults": {
+        "text_color":"383838",
+        "background":"f8f8f8",
+        "activeline_background":"d8d8d8",
+        "matchingbracket_color":"4b8093"
+    },
+    "gutters": {
+        "background":"e8e8e8",
+        "text_color":"b8b8b8",
+        "border_color":"e8e8e8"
+    },
+    "tokens": {
+        "comment_color":"b8b8b8",
+        "number_color":"dc9656",
+        "property_color":"ab4642",
+        "attribute_color":"dc9656",
+        "keyword_color":"96609e",
+        "string_color":"538947",
+        "variable_color":"ab4642",
+        "def_color":"7cafc2",
+        "bracket_color":"383838",
+        "tag_color":"ab4642",
+        "header_color":"f79a0e",
+        "link_color":"dc9656"
+    }
+}

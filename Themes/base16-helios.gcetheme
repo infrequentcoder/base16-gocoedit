@@ -1,0 +1,29 @@
+{
+    "name": "base16-Helios",
+    // originator: Alex Meyer (https://github.com/reyemxela) - helios
+    "defaults": {
+        "text_color":"d5d5d5",
+        "background":"1d2021",
+        "activeline_background":"53585b",
+        "matchingbracket_color":"1ba595"
+    },
+    "gutters": {
+        "background":"383c3e",
+        "text_color":"6f7579",
+        "border_color":"383c3e"
+    },
+    "tokens": {
+        "comment_color":"6f7579",
+        "number_color":"eb8413",
+        "property_color":"d72638",
+        "attribute_color":"eb8413",
+        "keyword_color":"be4264",
+        "string_color":"88b92d",
+        "variable_color":"d72638",
+        "def_color":"1e8bac",
+        "bracket_color":"d5d5d5",
+        "tag_color":"d72638",
+        "header_color":"f19d1a",
+        "link_color":"eb8413"
+    }
+}

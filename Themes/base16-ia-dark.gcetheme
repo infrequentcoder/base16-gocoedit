@@ -1,0 +1,29 @@
+{
+    "name": "base16-iA Dark",
+    // originator: iA Inc. (modified by aramisgithub) - ia-dark
+    "defaults": {
+        "text_color":"cccccc",
+        "background":"1a1a1a",
+        "activeline_background":"1d414d",
+        "matchingbracket_color":"7c9cae"
+    },
+    "gutters": {
+        "background":"222222",
+        "text_color":"767676",
+        "border_color":"222222"
+    },
+    "tokens": {
+        "comment_color":"767676",
+        "number_color":"d86868",
+        "property_color":"d88568",
+        "attribute_color":"d86868",
+        "keyword_color":"b98eb2",
+        "string_color":"83a471",
+        "variable_color":"d88568",
+        "def_color":"8eccdd",
+        "bracket_color":"cccccc",
+        "tag_color":"d88568",
+        "header_color":"b99353",
+        "link_color":"d86868"
+    }
+}

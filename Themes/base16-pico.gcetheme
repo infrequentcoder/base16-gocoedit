@@ -1,0 +1,29 @@
+{
+    "name": "base16-Pico",
+    // originator: PICO-8 (http://www.lexaloffle.com/pico-8.php) - pico
+    "defaults": {
+        "text_color":"5f574f",
+        "background":"000000",
+        "activeline_background":"7e2553",
+        "matchingbracket_color":"29adff"
+    },
+    "gutters": {
+        "background":"1d2b53",
+        "text_color":"008751",
+        "border_color":"1d2b53"
+    },
+    "tokens": {
+        "comment_color":"008751",
+        "number_color":"ffa300",
+        "property_color":"ff004d",
+        "attribute_color":"ffa300",
+        "keyword_color":"ff77a8",
+        "string_color":"00e756",
+        "variable_color":"ff004d",
+        "def_color":"83769c",
+        "bracket_color":"5f574f",
+        "tag_color":"ff004d",
+        "header_color":"fff024",
+        "link_color":"ffa300"
+    }
+}

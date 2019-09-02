@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Dune",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-dune
+    "defaults": {
+        "text_color":"a6a28c",
+        "background":"20201d",
+        "activeline_background":"6e6b5e",
+        "matchingbracket_color":"1fad83"
+    },
+    "gutters": {
+        "background":"292824",
+        "text_color":"7d7a68",
+        "border_color":"292824"
+    },
+    "tokens": {
+        "comment_color":"7d7a68",
+        "number_color":"b65611",
+        "property_color":"d73737",
+        "attribute_color":"b65611",
+        "keyword_color":"b854d4",
+        "string_color":"60ac39",
+        "variable_color":"d73737",
+        "def_color":"6684e1",
+        "bracket_color":"a6a28c",
+        "tag_color":"d73737",
+        "header_color":"ae9513",
+        "link_color":"b65611"
+    }
+}

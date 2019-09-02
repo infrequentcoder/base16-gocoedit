@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Cave",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-cave
+    "defaults": {
+        "text_color":"8b8792",
+        "background":"19171c",
+        "activeline_background":"585260",
+        "matchingbracket_color":"398bc6"
+    },
+    "gutters": {
+        "background":"26232a",
+        "text_color":"655f6d",
+        "border_color":"26232a"
+    },
+    "tokens": {
+        "comment_color":"655f6d",
+        "number_color":"aa573c",
+        "property_color":"be4678",
+        "attribute_color":"aa573c",
+        "keyword_color":"955ae7",
+        "string_color":"2a9292",
+        "variable_color":"be4678",
+        "def_color":"576ddb",
+        "bracket_color":"8b8792",
+        "tag_color":"be4678",
+        "header_color":"a06e3b",
+        "link_color":"aa573c"
+    }
+}

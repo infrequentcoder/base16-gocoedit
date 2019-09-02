@@ -1,0 +1,29 @@
+{
+    "name": "base16-Horizon Light",
+    // originator: Michaël Ball (http://github.com/michael-ball/) - horizon-light
+    "defaults": {
+        "text_color":"403C3D",
+        "background":"FDF0ED",
+        "activeline_background":"F9CBBE",
+        "matchingbracket_color":"DC3318"
+    },
+    "gutters": {
+        "background":"FADAD1",
+        "text_color":"BDB3B1",
+        "border_color":"FADAD1"
+    },
+    "tokens": {
+        "comment_color":"BDB3B1",
+        "number_color":"F6661E",
+        "property_color":"F7939B",
+        "attribute_color":"F6661E",
+        "keyword_color":"1D8991",
+        "string_color":"94E1B0",
+        "variable_color":"F7939B",
+        "def_color":"DA103F",
+        "bracket_color":"403C3D",
+        "tag_color":"F7939B",
+        "header_color":"FBE0D9",
+        "link_color":"F6661E"
+    }
+}

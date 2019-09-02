@@ -1,0 +1,29 @@
+{
+    "name": "base16-Gruvbox dark, pale",
+    // originator: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox) - gruvbox-dark-pale
+    "defaults": {
+        "text_color":"dab997",
+        "background":"262626",
+        "activeline_background":"4e4e4e",
+        "matchingbracket_color":"85ad85"
+    },
+    "gutters": {
+        "background":"3a3a3a",
+        "text_color":"8a8a8a",
+        "border_color":"3a3a3a"
+    },
+    "tokens": {
+        "comment_color":"8a8a8a",
+        "number_color":"ff8700",
+        "property_color":"d75f5f",
+        "attribute_color":"ff8700",
+        "keyword_color":"d485ad",
+        "string_color":"afaf00",
+        "variable_color":"d75f5f",
+        "def_color":"83adad",
+        "bracket_color":"dab997",
+        "tag_color":"d75f5f",
+        "header_color":"ffaf00",
+        "link_color":"ff8700"
+    }
+}

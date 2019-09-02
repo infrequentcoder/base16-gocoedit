@@ -1,0 +1,29 @@
+{
+    "name": "base16-Classic Light",
+    // originator: Jason Heeris (http://heeris.id.au) - classic-light
+    "defaults": {
+        "text_color":"303030",
+        "background":"F5F5F5",
+        "activeline_background":"D0D0D0",
+        "matchingbracket_color":"75B5AA"
+    },
+    "gutters": {
+        "background":"E0E0E0",
+        "text_color":"B0B0B0",
+        "border_color":"E0E0E0"
+    },
+    "tokens": {
+        "comment_color":"B0B0B0",
+        "number_color":"D28445",
+        "property_color":"AC4142",
+        "attribute_color":"D28445",
+        "keyword_color":"AA759F",
+        "string_color":"90A959",
+        "variable_color":"AC4142",
+        "def_color":"6A9FB5",
+        "bracket_color":"303030",
+        "tag_color":"AC4142",
+        "header_color":"F4BF75",
+        "link_color":"D28445"
+    }
+}

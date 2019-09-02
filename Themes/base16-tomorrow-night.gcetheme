@@ -1,0 +1,29 @@
+{
+    "name": "base16-Tomorrow Night",
+    // originator: Chris Kempson (http://chriskempson.com) - tomorrow-night
+    "defaults": {
+        "text_color":"c5c8c6",
+        "background":"1d1f21",
+        "activeline_background":"373b41",
+        "matchingbracket_color":"8abeb7"
+    },
+    "gutters": {
+        "background":"282a2e",
+        "text_color":"969896",
+        "border_color":"282a2e"
+    },
+    "tokens": {
+        "comment_color":"969896",
+        "number_color":"de935f",
+        "property_color":"cc6666",
+        "attribute_color":"de935f",
+        "keyword_color":"b294bb",
+        "string_color":"b5bd68",
+        "variable_color":"cc6666",
+        "def_color":"81a2be",
+        "bracket_color":"c5c8c6",
+        "tag_color":"cc6666",
+        "header_color":"f0c674",
+        "link_color":"de935f"
+    }
+}

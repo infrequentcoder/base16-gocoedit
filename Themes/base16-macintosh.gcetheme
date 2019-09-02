@@ -1,0 +1,29 @@
+{
+    "name": "base16-Macintosh",
+    // originator: Rebecca Bettencourt (http://www.kreativekorp.com) - macintosh
+    "defaults": {
+        "text_color":"c0c0c0",
+        "background":"000000",
+        "activeline_background":"404040",
+        "matchingbracket_color":"02abea"
+    },
+    "gutters": {
+        "background":"404040",
+        "text_color":"808080",
+        "border_color":"404040"
+    },
+    "tokens": {
+        "comment_color":"808080",
+        "number_color":"ff6403",
+        "property_color":"dd0907",
+        "attribute_color":"ff6403",
+        "keyword_color":"4700a5",
+        "string_color":"1fb714",
+        "variable_color":"dd0907",
+        "def_color":"0000d3",
+        "bracket_color":"c0c0c0",
+        "tag_color":"dd0907",
+        "header_color":"fbf305",
+        "link_color":"ff6403"
+    }
+}

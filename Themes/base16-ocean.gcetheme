@@ -1,0 +1,29 @@
+{
+    "name": "base16-Ocean",
+    // originator: Chris Kempson (http://chriskempson.com) - ocean
+    "defaults": {
+        "text_color":"c0c5ce",
+        "background":"2b303b",
+        "activeline_background":"4f5b66",
+        "matchingbracket_color":"96b5b4"
+    },
+    "gutters": {
+        "background":"343d46",
+        "text_color":"65737e",
+        "border_color":"343d46"
+    },
+    "tokens": {
+        "comment_color":"65737e",
+        "number_color":"d08770",
+        "property_color":"bf616a",
+        "attribute_color":"d08770",
+        "keyword_color":"b48ead",
+        "string_color":"a3be8c",
+        "variable_color":"bf616a",
+        "def_color":"8fa1b3",
+        "bracket_color":"c0c5ce",
+        "tag_color":"bf616a",
+        "header_color":"ebcb8b",
+        "link_color":"d08770"
+    }
+}

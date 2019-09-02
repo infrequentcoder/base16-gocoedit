@@ -1,0 +1,29 @@
+{
+    "name": "base16-Paraiso",
+    // originator: Jan T. Sott - paraiso
+    "defaults": {
+        "text_color":"a39e9b",
+        "background":"2f1e2e",
+        "activeline_background":"4f424c",
+        "matchingbracket_color":"5bc4bf"
+    },
+    "gutters": {
+        "background":"41323f",
+        "text_color":"776e71",
+        "border_color":"41323f"
+    },
+    "tokens": {
+        "comment_color":"776e71",
+        "number_color":"f99b15",
+        "property_color":"ef6155",
+        "attribute_color":"f99b15",
+        "keyword_color":"815ba4",
+        "string_color":"48b685",
+        "variable_color":"ef6155",
+        "def_color":"06b6ef",
+        "bracket_color":"a39e9b",
+        "tag_color":"ef6155",
+        "header_color":"fec418",
+        "link_color":"f99b15"
+    }
+}

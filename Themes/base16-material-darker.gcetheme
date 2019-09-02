@@ -1,0 +1,29 @@
+{
+    "name": "base16-Material Darker",
+    // originator: Nate Peterson - material-darker
+    "defaults": {
+        "text_color":"EEFFFF",
+        "background":"212121",
+        "activeline_background":"353535",
+        "matchingbracket_color":"89DDFF"
+    },
+    "gutters": {
+        "background":"303030",
+        "text_color":"4A4A4A",
+        "border_color":"303030"
+    },
+    "tokens": {
+        "comment_color":"4A4A4A",
+        "number_color":"F78C6C",
+        "property_color":"F07178",
+        "attribute_color":"F78C6C",
+        "keyword_color":"C792EA",
+        "string_color":"C3E88D",
+        "variable_color":"F07178",
+        "def_color":"82AAFF",
+        "bracket_color":"EEFFFF",
+        "tag_color":"F07178",
+        "header_color":"FFCB6B",
+        "link_color":"F78C6C"
+    }
+}

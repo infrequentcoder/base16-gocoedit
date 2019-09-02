@@ -1,0 +1,29 @@
+{
+    "name": "base16-Outrun Dark",
+    // originator: Hugo Delahousse (http://github.com/hugodelahousse/) - outrun-dark
+    "defaults": {
+        "text_color":"D0D0FA",
+        "background":"00002A",
+        "activeline_background":"30305A",
+        "matchingbracket_color":"0EF0F0"
+    },
+    "gutters": {
+        "background":"20204A",
+        "text_color":"50507A",
+        "border_color":"20204A"
+    },
+    "tokens": {
+        "comment_color":"50507A",
+        "number_color":"FC8D28",
+        "property_color":"FF4242",
+        "attribute_color":"FC8D28",
+        "keyword_color":"F10596",
+        "string_color":"59F176",
+        "variable_color":"FF4242",
+        "def_color":"66B0FF",
+        "bracket_color":"D0D0FA",
+        "tag_color":"FF4242",
+        "header_color":"F3E877",
+        "link_color":"FC8D28"
+    }
+}

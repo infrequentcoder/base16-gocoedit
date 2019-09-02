@@ -1,0 +1,29 @@
+{
+    "name": "base16-Gruvbox dark, soft",
+    // originator: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox) - gruvbox-dark-soft
+    "defaults": {
+        "text_color":"d5c4a1",
+        "background":"32302f",
+        "activeline_background":"504945",
+        "matchingbracket_color":"8ec07c"
+    },
+    "gutters": {
+        "background":"3c3836",
+        "text_color":"665c54",
+        "border_color":"3c3836"
+    },
+    "tokens": {
+        "comment_color":"665c54",
+        "number_color":"fe8019",
+        "property_color":"fb4934",
+        "attribute_color":"fe8019",
+        "keyword_color":"d3869b",
+        "string_color":"b8bb26",
+        "variable_color":"fb4934",
+        "def_color":"83a598",
+        "bracket_color":"d5c4a1",
+        "tag_color":"fb4934",
+        "header_color":"fabd2f",
+        "link_color":"fe8019"
+    }
+}

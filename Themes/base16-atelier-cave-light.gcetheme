@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Cave Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-cave-light
+    "defaults": {
+        "text_color":"585260",
+        "background":"efecf4",
+        "activeline_background":"8b8792",
+        "matchingbracket_color":"398bc6"
+    },
+    "gutters": {
+        "background":"e2dfe7",
+        "text_color":"7e7887",
+        "border_color":"e2dfe7"
+    },
+    "tokens": {
+        "comment_color":"7e7887",
+        "number_color":"aa573c",
+        "property_color":"be4678",
+        "attribute_color":"aa573c",
+        "keyword_color":"955ae7",
+        "string_color":"2a9292",
+        "variable_color":"be4678",
+        "def_color":"576ddb",
+        "bracket_color":"585260",
+        "tag_color":"be4678",
+        "header_color":"a06e3b",
+        "link_color":"aa573c"
+    }
+}

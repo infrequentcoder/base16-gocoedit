@@ -1,0 +1,29 @@
+{
+    "name": "base16-Monokai",
+    // originator: Wimer Hazenberg (http://www.monokai.nl) - monokai
+    "defaults": {
+        "text_color":"f8f8f2",
+        "background":"272822",
+        "activeline_background":"49483e",
+        "matchingbracket_color":"a1efe4"
+    },
+    "gutters": {
+        "background":"383830",
+        "text_color":"75715e",
+        "border_color":"383830"
+    },
+    "tokens": {
+        "comment_color":"75715e",
+        "number_color":"fd971f",
+        "property_color":"f92672",
+        "attribute_color":"fd971f",
+        "keyword_color":"ae81ff",
+        "string_color":"a6e22e",
+        "variable_color":"f92672",
+        "def_color":"66d9ef",
+        "bracket_color":"f8f8f2",
+        "tag_color":"f92672",
+        "header_color":"f4bf75",
+        "link_color":"fd971f"
+    }
+}

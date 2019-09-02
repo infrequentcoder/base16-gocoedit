@@ -1,0 +1,29 @@
+{
+    "name": "base16-Green Screen",
+    // originator: Chris Kempson (http://chriskempson.com) - greenscreen
+    "defaults": {
+        "text_color":"00bb00",
+        "background":"001100",
+        "activeline_background":"005500",
+        "matchingbracket_color":"005500"
+    },
+    "gutters": {
+        "background":"003300",
+        "text_color":"007700",
+        "border_color":"003300"
+    },
+    "tokens": {
+        "comment_color":"007700",
+        "number_color":"009900",
+        "property_color":"007700",
+        "attribute_color":"009900",
+        "keyword_color":"00bb00",
+        "string_color":"00bb00",
+        "variable_color":"007700",
+        "def_color":"009900",
+        "bracket_color":"00bb00",
+        "tag_color":"007700",
+        "header_color":"007700",
+        "link_color":"009900"
+    }
+}

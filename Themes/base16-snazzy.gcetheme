@@ -1,0 +1,29 @@
+{
+    "name": "base16-Snazzy",
+    // originator: Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy) - snazzy
+    "defaults": {
+        "text_color":"e2e4e5",
+        "background":"282a36",
+        "activeline_background":"43454f",
+        "matchingbracket_color":"9aedfe"
+    },
+    "gutters": {
+        "background":"34353e",
+        "text_color":"78787e",
+        "border_color":"34353e"
+    },
+    "tokens": {
+        "comment_color":"78787e",
+        "number_color":"ff9f43",
+        "property_color":"ff5c57",
+        "attribute_color":"ff9f43",
+        "keyword_color":"ff6ac1",
+        "string_color":"5af78e",
+        "variable_color":"ff5c57",
+        "def_color":"57c7ff",
+        "bracket_color":"e2e4e5",
+        "tag_color":"ff5c57",
+        "header_color":"f3f99d",
+        "link_color":"ff9f43"
+    }
+}

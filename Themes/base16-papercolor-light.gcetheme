@@ -1,0 +1,29 @@
+{
+    "name": "base16-PaperColor Light",
+    // originator: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme) - papercolor-light
+    "defaults": {
+        "text_color":"878787",
+        "background":"eeeeee",
+        "activeline_background":"008700",
+        "matchingbracket_color":"d75f00"
+    },
+    "gutters": {
+        "background":"af0000",
+        "text_color":"5f8700",
+        "border_color":"af0000"
+    },
+    "tokens": {
+        "comment_color":"5f8700",
+        "number_color":"d70000",
+        "property_color":"bcbcbc",
+        "attribute_color":"d70000",
+        "keyword_color":"005faf",
+        "string_color":"8700af",
+        "variable_color":"bcbcbc",
+        "def_color":"d75f00",
+        "bracket_color":"878787",
+        "tag_color":"bcbcbc",
+        "header_color":"d70087",
+        "link_color":"d70000"
+    }
+}

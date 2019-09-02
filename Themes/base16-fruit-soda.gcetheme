@@ -1,0 +1,29 @@
+{
+    "name": "base16-Fruit Soda",
+    // originator: jozip - fruit-soda
+    "defaults": {
+        "text_color":"515151",
+        "background":"f1ecf1",
+        "activeline_background":"d8d5d5",
+        "matchingbracket_color":"0f9cfd"
+    },
+    "gutters": {
+        "background":"e0dee0",
+        "text_color":"b5b4b6",
+        "border_color":"e0dee0"
+    },
+    "tokens": {
+        "comment_color":"b5b4b6",
+        "number_color":"fe6d08",
+        "property_color":"fe3e31",
+        "attribute_color":"fe6d08",
+        "keyword_color":"611fce",
+        "string_color":"47f74c",
+        "variable_color":"fe3e31",
+        "def_color":"2931df",
+        "bracket_color":"515151",
+        "tag_color":"fe3e31",
+        "header_color":"f7e203",
+        "link_color":"fe6d08"
+    }
+}

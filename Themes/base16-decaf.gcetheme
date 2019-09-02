@@ -1,0 +1,29 @@
+{
+    "name": "base16-Decaf",
+    // originator: Alex Mirrington (https://github.com/alexmirrington) - decaf
+    "defaults": {
+        "text_color":"cccccc",
+        "background":"2d2d2d",
+        "activeline_background":"515151",
+        "matchingbracket_color":"bed6ff"
+    },
+    "gutters": {
+        "background":"393939",
+        "text_color":"777777",
+        "border_color":"393939"
+    },
+    "tokens": {
+        "comment_color":"777777",
+        "number_color":"ffbf70",
+        "property_color":"ff7f7b",
+        "attribute_color":"ffbf70",
+        "keyword_color":"efb3f7",
+        "string_color":"beda78",
+        "variable_color":"ff7f7b",
+        "def_color":"90bee1",
+        "bracket_color":"cccccc",
+        "tag_color":"ff7f7b",
+        "header_color":"ffd67c",
+        "link_color":"ffbf70"
+    }
+}

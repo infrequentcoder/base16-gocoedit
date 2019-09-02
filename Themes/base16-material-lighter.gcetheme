@@ -1,0 +1,29 @@
+{
+    "name": "base16-Material Lighter",
+    // originator: Nate Peterson - material-lighter
+    "defaults": {
+        "text_color":"80CBC4",
+        "background":"FAFAFA",
+        "activeline_background":"CCEAE7",
+        "matchingbracket_color":"39ADB5"
+    },
+    "gutters": {
+        "background":"E7EAEC",
+        "text_color":"CCD7DA",
+        "border_color":"E7EAEC"
+    },
+    "tokens": {
+        "comment_color":"CCD7DA",
+        "number_color":"F76D47",
+        "property_color":"FF5370",
+        "attribute_color":"F76D47",
+        "keyword_color":"7C4DFF",
+        "string_color":"91B859",
+        "variable_color":"FF5370",
+        "def_color":"6182B8",
+        "bracket_color":"80CBC4",
+        "tag_color":"FF5370",
+        "header_color":"FFB62C",
+        "link_color":"F76D47"
+    }
+}

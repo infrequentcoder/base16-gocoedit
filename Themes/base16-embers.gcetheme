@@ -1,0 +1,29 @@
+{
+    "name": "base16-Embers",
+    // originator: Jannik Siebert (https://github.com/janniks) - embers
+    "defaults": {
+        "text_color":"A39A90",
+        "background":"16130F",
+        "activeline_background":"433B32",
+        "matchingbracket_color":"576D82"
+    },
+    "gutters": {
+        "background":"2C2620",
+        "text_color":"5A5047",
+        "border_color":"2C2620"
+    },
+    "tokens": {
+        "comment_color":"5A5047",
+        "number_color":"828257",
+        "property_color":"826D57",
+        "attribute_color":"828257",
+        "keyword_color":"82576D",
+        "string_color":"57826D",
+        "variable_color":"826D57",
+        "def_color":"6D5782",
+        "bracket_color":"A39A90",
+        "tag_color":"826D57",
+        "header_color":"6D8257",
+        "link_color":"828257"
+    }
+}

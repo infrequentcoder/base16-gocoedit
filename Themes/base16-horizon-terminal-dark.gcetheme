@@ -1,0 +1,29 @@
+{
+    "name": "base16-Horizon Dark",
+    // originator: Michaël Ball (http://github.com/michael-ball/) - horizon-terminal-dark
+    "defaults": {
+        "text_color":"CBCED0",
+        "background":"1C1E26",
+        "activeline_background":"2E303E",
+        "matchingbracket_color":"59E1E3"
+    },
+    "gutters": {
+        "background":"232530",
+        "text_color":"6F6F70",
+        "border_color":"232530"
+    },
+    "tokens": {
+        "comment_color":"6F6F70",
+        "number_color":"FAB795",
+        "property_color":"E95678",
+        "attribute_color":"FAB795",
+        "keyword_color":"EE64AC",
+        "string_color":"29D398",
+        "variable_color":"E95678",
+        "def_color":"26BBD9",
+        "bracket_color":"CBCED0",
+        "tag_color":"E95678",
+        "header_color":"FAC29A",
+        "link_color":"FAB795"
+    }
+}

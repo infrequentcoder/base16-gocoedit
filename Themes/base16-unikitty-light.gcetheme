@@ -1,0 +1,29 @@
+{
+    "name": "base16-Unikitty Light",
+    // originator: Josh W Lewis (@joshwlewis) - unikitty-light
+    "defaults": {
+        "text_color":"6c696e",
+        "background":"ffffff",
+        "activeline_background":"c4c3c5",
+        "matchingbracket_color":"149bda"
+    },
+    "gutters": {
+        "background":"e1e1e2",
+        "text_color":"a7a5a8",
+        "border_color":"e1e1e2"
+    },
+    "tokens": {
+        "comment_color":"a7a5a8",
+        "number_color":"d65407",
+        "property_color":"d8137f",
+        "attribute_color":"d65407",
+        "keyword_color":"aa17e6",
+        "string_color":"17ad98",
+        "variable_color":"d8137f",
+        "def_color":"775dff",
+        "bracket_color":"6c696e",
+        "tag_color":"d8137f",
+        "header_color":"dc8a0e",
+        "link_color":"d65407"
+    }
+}

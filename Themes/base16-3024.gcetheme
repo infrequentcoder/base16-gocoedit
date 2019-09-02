@@ -1,0 +1,29 @@
+{
+    "name": "base16-3024",
+    // originator: Jan T. Sott (http://github.com/idleberg) - 3024
+    "defaults": {
+        "text_color":"a5a2a2",
+        "background":"090300",
+        "activeline_background":"4a4543",
+        "matchingbracket_color":"b5e4f4"
+    },
+    "gutters": {
+        "background":"3a3432",
+        "text_color":"5c5855",
+        "border_color":"3a3432"
+    },
+    "tokens": {
+        "comment_color":"5c5855",
+        "number_color":"e8bbd0",
+        "property_color":"db2d20",
+        "attribute_color":"e8bbd0",
+        "keyword_color":"a16a94",
+        "string_color":"01a252",
+        "variable_color":"db2d20",
+        "def_color":"01a0e4",
+        "bracket_color":"a5a2a2",
+        "tag_color":"db2d20",
+        "header_color":"fded02",
+        "link_color":"e8bbd0"
+    }
+}

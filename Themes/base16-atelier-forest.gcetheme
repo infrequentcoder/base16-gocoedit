@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Forest",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-forest
+    "defaults": {
+        "text_color":"a8a19f",
+        "background":"1b1918",
+        "activeline_background":"68615e",
+        "matchingbracket_color":"3d97b8"
+    },
+    "gutters": {
+        "background":"2c2421",
+        "text_color":"766e6b",
+        "border_color":"2c2421"
+    },
+    "tokens": {
+        "comment_color":"766e6b",
+        "number_color":"df5320",
+        "property_color":"f22c40",
+        "attribute_color":"df5320",
+        "keyword_color":"6666ea",
+        "string_color":"7b9726",
+        "variable_color":"f22c40",
+        "def_color":"407ee7",
+        "bracket_color":"a8a19f",
+        "tag_color":"f22c40",
+        "header_color":"c38418",
+        "link_color":"df5320"
+    }
+}

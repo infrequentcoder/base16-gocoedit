@@ -1,0 +1,29 @@
+{
+    "name": "base16-Default Dark",
+    // originator: Chris Kempson (http://chriskempson.com) - default-dark
+    "defaults": {
+        "text_color":"d8d8d8",
+        "background":"181818",
+        "activeline_background":"383838",
+        "matchingbracket_color":"86c1b9"
+    },
+    "gutters": {
+        "background":"282828",
+        "text_color":"585858",
+        "border_color":"282828"
+    },
+    "tokens": {
+        "comment_color":"585858",
+        "number_color":"dc9656",
+        "property_color":"ab4642",
+        "attribute_color":"dc9656",
+        "keyword_color":"ba8baf",
+        "string_color":"a1b56c",
+        "variable_color":"ab4642",
+        "def_color":"7cafc2",
+        "bracket_color":"d8d8d8",
+        "tag_color":"ab4642",
+        "header_color":"f7ca88",
+        "link_color":"dc9656"
+    }
+}

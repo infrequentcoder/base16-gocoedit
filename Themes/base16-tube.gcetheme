@@ -1,0 +1,29 @@
+{
+    "name": "base16-London Tube",
+    // originator: Jan T. Sott - tube
+    "defaults": {
+        "text_color":"d9d8d8",
+        "background":"231f20",
+        "activeline_background":"5a5758",
+        "matchingbracket_color":"85cebc"
+    },
+    "gutters": {
+        "background":"1c3f95",
+        "text_color":"737171",
+        "border_color":"1c3f95"
+    },
+    "tokens": {
+        "comment_color":"737171",
+        "number_color":"f386a1",
+        "property_color":"ee2e24",
+        "attribute_color":"f386a1",
+        "keyword_color":"98005d",
+        "string_color":"00853e",
+        "variable_color":"ee2e24",
+        "def_color":"009ddc",
+        "bracket_color":"d9d8d8",
+        "tag_color":"ee2e24",
+        "header_color":"ffd204",
+        "link_color":"f386a1"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Summerfruit Dark",
+    // originator: Christopher Corley (http://christop.club/) - summerfruit-dark
+    "defaults": {
+        "text_color":"D0D0D0",
+        "background":"151515",
+        "activeline_background":"303030",
+        "matchingbracket_color":"1FAAAA"
+    },
+    "gutters": {
+        "background":"202020",
+        "text_color":"505050",
+        "border_color":"202020"
+    },
+    "tokens": {
+        "comment_color":"505050",
+        "number_color":"FD8900",
+        "property_color":"FF0086",
+        "attribute_color":"FD8900",
+        "keyword_color":"AD00A1",
+        "string_color":"00C918",
+        "variable_color":"FF0086",
+        "def_color":"3777E6",
+        "bracket_color":"D0D0D0",
+        "tag_color":"FF0086",
+        "header_color":"ABA800",
+        "link_color":"FD8900"
+    }
+}

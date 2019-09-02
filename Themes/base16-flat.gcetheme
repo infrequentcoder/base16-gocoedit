@@ -1,0 +1,29 @@
+{
+    "name": "base16-Flat",
+    // originator: Chris Kempson (http://chriskempson.com) - flat
+    "defaults": {
+        "text_color":"e0e0e0",
+        "background":"2C3E50",
+        "activeline_background":"7F8C8D",
+        "matchingbracket_color":"1ABC9C"
+    },
+    "gutters": {
+        "background":"34495E",
+        "text_color":"95A5A6",
+        "border_color":"34495E"
+    },
+    "tokens": {
+        "comment_color":"95A5A6",
+        "number_color":"E67E22",
+        "property_color":"E74C3C",
+        "attribute_color":"E67E22",
+        "keyword_color":"9B59B6",
+        "string_color":"2ECC71",
+        "variable_color":"E74C3C",
+        "def_color":"3498DB",
+        "bracket_color":"e0e0e0",
+        "tag_color":"E74C3C",
+        "header_color":"F1C40F",
+        "link_color":"E67E22"
+    }
+}

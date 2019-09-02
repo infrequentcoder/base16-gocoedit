@@ -1,0 +1,29 @@
+{
+    "name": "base16-Mellow Purple",
+    // originator: gidsi - mellow-purple
+    "defaults": {
+        "text_color":"ffeeff",
+        "background":"1e0528",
+        "activeline_background":"331354",
+        "matchingbracket_color":"b900b1"
+    },
+    "gutters": {
+        "background":"1A092D",
+        "text_color":"320f55",
+        "border_color":"1A092D"
+    },
+    "tokens": {
+        "comment_color":"320f55",
+        "number_color":"aa00a3",
+        "property_color":"00d9e9",
+        "attribute_color":"aa00a3",
+        "keyword_color":"8991bb",
+        "string_color":"05cb0d",
+        "variable_color":"00d9e9",
+        "def_color":"550068",
+        "bracket_color":"ffeeff",
+        "tag_color":"00d9e9",
+        "header_color":"955ae7",
+        "link_color":"aa00a3"
+    }
+}

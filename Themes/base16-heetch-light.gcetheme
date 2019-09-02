@@ -1,0 +1,29 @@
+{
+    "name": "base16-Heetch Light",
+    // originator: Geoffrey Teale (tealeg@gmail.com) - heetch-light
+    "defaults": {
+        "text_color":"5a496e",
+        "background":"feffff",
+        "activeline_background":"7b6d8b",
+        "matchingbracket_color":"c33678"
+    },
+    "gutters": {
+        "background":"392551",
+        "text_color":"9c92a8",
+        "border_color":"392551"
+    },
+    "tokens": {
+        "comment_color":"9c92a8",
+        "number_color":"bdb6c5",
+        "property_color":"27d9d5",
+        "attribute_color":"bdb6c5",
+        "keyword_color":"bd0152",
+        "string_color":"f80059",
+        "variable_color":"27d9d5",
+        "def_color":"47f9f5",
+        "bracket_color":"5a496e",
+        "tag_color":"27d9d5",
+        "header_color":"5ba2b6",
+        "link_color":"bdb6c5"
+    }
+}

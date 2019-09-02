@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Forest Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-forest-light
+    "defaults": {
+        "text_color":"68615e",
+        "background":"f1efee",
+        "activeline_background":"a8a19f",
+        "matchingbracket_color":"3d97b8"
+    },
+    "gutters": {
+        "background":"e6e2e0",
+        "text_color":"9c9491",
+        "border_color":"e6e2e0"
+    },
+    "tokens": {
+        "comment_color":"9c9491",
+        "number_color":"df5320",
+        "property_color":"f22c40",
+        "attribute_color":"df5320",
+        "keyword_color":"6666ea",
+        "string_color":"7b9726",
+        "variable_color":"f22c40",
+        "def_color":"407ee7",
+        "bracket_color":"68615e",
+        "tag_color":"f22c40",
+        "header_color":"c38418",
+        "link_color":"df5320"
+    }
+}

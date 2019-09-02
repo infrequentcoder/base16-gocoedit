@@ -1,0 +1,29 @@
+{
+    "name": "base16-Material Vivid",
+    // originator: joshyrobot - material-vivid
+    "defaults": {
+        "text_color":"80868b",
+        "background":"202124",
+        "activeline_background":"323639",
+        "matchingbracket_color":"00bcd4"
+    },
+    "gutters": {
+        "background":"27292c",
+        "text_color":"44464d",
+        "border_color":"27292c"
+    },
+    "tokens": {
+        "comment_color":"44464d",
+        "number_color":"ff9800",
+        "property_color":"f44336",
+        "attribute_color":"ff9800",
+        "keyword_color":"673ab7",
+        "string_color":"00e676",
+        "variable_color":"f44336",
+        "def_color":"2196f3",
+        "bracket_color":"80868b",
+        "tag_color":"f44336",
+        "header_color":"ffeb3b",
+        "link_color":"ff9800"
+    }
+}

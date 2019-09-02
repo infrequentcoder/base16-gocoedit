@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Seaside Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-seaside-light
+    "defaults": {
+        "text_color":"5e6e5e",
+        "background":"f4fbf4",
+        "activeline_background":"8ca68c",
+        "matchingbracket_color":"1999b3"
+    },
+    "gutters": {
+        "background":"cfe8cf",
+        "text_color":"809980",
+        "border_color":"cfe8cf"
+    },
+    "tokens": {
+        "comment_color":"809980",
+        "number_color":"87711d",
+        "property_color":"e6193c",
+        "attribute_color":"87711d",
+        "keyword_color":"ad2bee",
+        "string_color":"29a329",
+        "variable_color":"e6193c",
+        "def_color":"3d62f5",
+        "bracket_color":"5e6e5e",
+        "tag_color":"e6193c",
+        "header_color":"98981b",
+        "link_color":"87711d"
+    }
+}

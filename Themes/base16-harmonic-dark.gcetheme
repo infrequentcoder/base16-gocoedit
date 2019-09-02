@@ -1,0 +1,29 @@
+{
+    "name": "base16-Harmonic16 Dark",
+    // originator: Jannik Siebert (https://github.com/janniks) - harmonic-dark
+    "defaults": {
+        "text_color":"cbd6e2",
+        "background":"0b1c2c",
+        "activeline_background":"405c79",
+        "matchingbracket_color":"568bbf"
+    },
+    "gutters": {
+        "background":"223b54",
+        "text_color":"627e99",
+        "border_color":"223b54"
+    },
+    "tokens": {
+        "comment_color":"627e99",
+        "number_color":"bfbf56",
+        "property_color":"bf8b56",
+        "attribute_color":"bfbf56",
+        "keyword_color":"bf568b",
+        "string_color":"56bf8b",
+        "variable_color":"bf8b56",
+        "def_color":"8b56bf",
+        "bracket_color":"cbd6e2",
+        "tag_color":"bf8b56",
+        "header_color":"8bbf56",
+        "link_color":"bfbf56"
+    }
+}

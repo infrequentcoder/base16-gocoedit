@@ -1,0 +1,29 @@
+{
+    "name": "base16-Solar Flare",
+    // originator: Chuck Harmston (https://chuck.harmston.ch) - solarflare
+    "defaults": {
+        "text_color":"A6AFB8",
+        "background":"18262F",
+        "activeline_background":"586875",
+        "matchingbracket_color":"52CBB0"
+    },
+    "gutters": {
+        "background":"222E38",
+        "text_color":"667581",
+        "border_color":"222E38"
+    },
+    "tokens": {
+        "comment_color":"667581",
+        "number_color":"E66B2B",
+        "property_color":"EF5253",
+        "attribute_color":"E66B2B",
+        "keyword_color":"A363D5",
+        "string_color":"7CC844",
+        "variable_color":"EF5253",
+        "def_color":"33B5E1",
+        "bracket_color":"A6AFB8",
+        "tag_color":"EF5253",
+        "header_color":"E4B51C",
+        "link_color":"E66B2B"
+    }
+}

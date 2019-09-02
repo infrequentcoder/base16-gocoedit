@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Seaside",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-seaside
+    "defaults": {
+        "text_color":"8ca68c",
+        "background":"131513",
+        "activeline_background":"5e6e5e",
+        "matchingbracket_color":"1999b3"
+    },
+    "gutters": {
+        "background":"242924",
+        "text_color":"687d68",
+        "border_color":"242924"
+    },
+    "tokens": {
+        "comment_color":"687d68",
+        "number_color":"87711d",
+        "property_color":"e6193c",
+        "attribute_color":"87711d",
+        "keyword_color":"ad2bee",
+        "string_color":"29a329",
+        "variable_color":"e6193c",
+        "def_color":"3d62f5",
+        "bracket_color":"8ca68c",
+        "tag_color":"e6193c",
+        "header_color":"98981b",
+        "link_color":"87711d"
+    }
+}

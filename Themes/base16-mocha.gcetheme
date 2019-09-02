@@ -1,0 +1,29 @@
+{
+    "name": "base16-Mocha",
+    // originator: Chris Kempson (http://chriskempson.com) - mocha
+    "defaults": {
+        "text_color":"d0c8c6",
+        "background":"3B3228",
+        "activeline_background":"645240",
+        "matchingbracket_color":"7bbda4"
+    },
+    "gutters": {
+        "background":"534636",
+        "text_color":"7e705a",
+        "border_color":"534636"
+    },
+    "tokens": {
+        "comment_color":"7e705a",
+        "number_color":"d28b71",
+        "property_color":"cb6077",
+        "attribute_color":"d28b71",
+        "keyword_color":"a89bb9",
+        "string_color":"beb55b",
+        "variable_color":"cb6077",
+        "def_color":"8ab3b5",
+        "bracket_color":"d0c8c6",
+        "tag_color":"cb6077",
+        "header_color":"f4bc87",
+        "link_color":"d28b71"
+    }
+}

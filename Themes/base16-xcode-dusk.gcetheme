@@ -1,0 +1,29 @@
+{
+    "name": "base16-XCode Dusk",
+    // originator: Elsa Gonsiorowski (https://github.com/gonsie) - xcode-dusk
+    "defaults": {
+        "text_color":"939599",
+        "background":"282B35",
+        "activeline_background":"53555D",
+        "matchingbracket_color":"00A0BE"
+    },
+    "gutters": {
+        "background":"3D4048",
+        "text_color":"686A71",
+        "border_color":"3D4048"
+    },
+    "tokens": {
+        "comment_color":"686A71",
+        "number_color":"786DC5",
+        "property_color":"B21889",
+        "attribute_color":"786DC5",
+        "keyword_color":"B21889",
+        "string_color":"DF0002",
+        "variable_color":"B21889",
+        "def_color":"790EAD",
+        "bracket_color":"939599",
+        "tag_color":"B21889",
+        "header_color":"438288",
+        "link_color":"786DC5"
+    }
+}

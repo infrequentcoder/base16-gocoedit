@@ -1,0 +1,29 @@
+{
+    "name": "base16-Cupcake",
+    // originator: Chris Kempson (http://chriskempson.com) - cupcake
+    "defaults": {
+        "text_color":"8b8198",
+        "background":"fbf1f2",
+        "activeline_background":"d8d5dd",
+        "matchingbracket_color":"69A9A7"
+    },
+    "gutters": {
+        "background":"f2f1f4",
+        "text_color":"bfb9c6",
+        "border_color":"f2f1f4"
+    },
+    "tokens": {
+        "comment_color":"bfb9c6",
+        "number_color":"EBB790",
+        "property_color":"D57E85",
+        "attribute_color":"EBB790",
+        "keyword_color":"BB99B4",
+        "string_color":"A3B367",
+        "variable_color":"D57E85",
+        "def_color":"7297B9",
+        "bracket_color":"8b8198",
+        "tag_color":"D57E85",
+        "header_color":"DCB16C",
+        "link_color":"EBB790"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Nova",
+    // originator: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com) - nova
+    "defaults": {
+        "text_color":"C5D4DD",
+        "background":"3C4C55",
+        "activeline_background":"6A7D89",
+        "matchingbracket_color":"F2C38F"
+    },
+    "gutters": {
+        "background":"556873",
+        "text_color":"899BA6",
+        "border_color":"556873"
+    },
+    "tokens": {
+        "comment_color":"899BA6",
+        "number_color":"7FC1CA",
+        "property_color":"83AFE5",
+        "attribute_color":"7FC1CA",
+        "keyword_color":"9A93E1",
+        "string_color":"7FC1CA",
+        "variable_color":"83AFE5",
+        "def_color":"83AFE5",
+        "bracket_color":"C5D4DD",
+        "tag_color":"83AFE5",
+        "header_color":"A8CE93",
+        "link_color":"7FC1CA"
+    }
+}

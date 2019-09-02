@@ -1,0 +1,29 @@
+{
+    "name": "base16-PhD",
+    // originator: Hennig Hasemann (http://leetless.de/vim.html) - phd
+    "defaults": {
+        "text_color":"b8bbc2",
+        "background":"061229",
+        "activeline_background":"4d5666",
+        "matchingbracket_color":"72b9bf"
+    },
+    "gutters": {
+        "background":"2a3448",
+        "text_color":"717885",
+        "border_color":"2a3448"
+    },
+    "tokens": {
+        "comment_color":"717885",
+        "number_color":"f0a000",
+        "property_color":"d07346",
+        "attribute_color":"f0a000",
+        "keyword_color":"9989cc",
+        "string_color":"99bf52",
+        "variable_color":"d07346",
+        "def_color":"5299bf",
+        "bracket_color":"b8bbc2",
+        "tag_color":"d07346",
+        "header_color":"fbd461",
+        "link_color":"f0a000"
+    }
+}

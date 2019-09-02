@@ -1,0 +1,29 @@
+{
+    "name": "base16-Tomorrow",
+    // originator: Chris Kempson (http://chriskempson.com) - tomorrow
+    "defaults": {
+        "text_color":"4d4d4c",
+        "background":"ffffff",
+        "activeline_background":"d6d6d6",
+        "matchingbracket_color":"3e999f"
+    },
+    "gutters": {
+        "background":"e0e0e0",
+        "text_color":"8e908c",
+        "border_color":"e0e0e0"
+    },
+    "tokens": {
+        "comment_color":"8e908c",
+        "number_color":"f5871f",
+        "property_color":"c82829",
+        "attribute_color":"f5871f",
+        "keyword_color":"8959a8",
+        "string_color":"718c00",
+        "variable_color":"c82829",
+        "def_color":"4271ae",
+        "bracket_color":"4d4d4c",
+        "tag_color":"c82829",
+        "header_color":"eab700",
+        "link_color":"f5871f"
+    }
+}

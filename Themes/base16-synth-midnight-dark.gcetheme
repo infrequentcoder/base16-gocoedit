@@ -1,0 +1,29 @@
+{
+    "name": "base16-Synth Midnight Dark",
+    // originator: Michaël Ball (http://github.com/michael-ball/) - synth-midnight-dark
+    "defaults": {
+        "text_color":"DFDBDF",
+        "background":"040404",
+        "activeline_background":"242424",
+        "matchingbracket_color":"7CEDE9"
+    },
+    "gutters": {
+        "background":"141414",
+        "text_color":"61507A",
+        "border_color":"141414"
+    },
+    "tokens": {
+        "comment_color":"61507A",
+        "number_color":"E4600E",
+        "property_color":"B53B50",
+        "attribute_color":"E4600E",
+        "keyword_color":"EA5CE2",
+        "string_color":"06EA61",
+        "variable_color":"B53B50",
+        "def_color":"03AEFF",
+        "bracket_color":"DFDBDF",
+        "tag_color":"B53B50",
+        "header_color":"DAE84D",
+        "link_color":"E4600E"
+    }
+}

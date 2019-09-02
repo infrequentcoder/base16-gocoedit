@@ -1,0 +1,29 @@
+{
+    "name": "base16-Seti UI",
+    // originator:  - seti
+    "defaults": {
+        "text_color":"d6d6d6",
+        "background":"151718",
+        "activeline_background":"3B758C",
+        "matchingbracket_color":"55dbbe"
+    },
+    "gutters": {
+        "background":"282a2b",
+        "text_color":"41535B",
+        "border_color":"282a2b"
+    },
+    "tokens": {
+        "comment_color":"41535B",
+        "number_color":"db7b55",
+        "property_color":"Cd3f45",
+        "attribute_color":"db7b55",
+        "keyword_color":"a074c4",
+        "string_color":"9fca56",
+        "variable_color":"Cd3f45",
+        "def_color":"55b5db",
+        "bracket_color":"d6d6d6",
+        "tag_color":"Cd3f45",
+        "header_color":"e6cd69",
+        "link_color":"db7b55"
+    }
+}

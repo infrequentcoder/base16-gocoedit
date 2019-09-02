@@ -1,0 +1,29 @@
+{
+    "name": "base16-Pop",
+    // originator: Chris Kempson (http://chriskempson.com) - pop
+    "defaults": {
+        "text_color":"d0d0d0",
+        "background":"000000",
+        "activeline_background":"303030",
+        "matchingbracket_color":"00aabb"
+    },
+    "gutters": {
+        "background":"202020",
+        "text_color":"505050",
+        "border_color":"202020"
+    },
+    "tokens": {
+        "comment_color":"505050",
+        "number_color":"f29333",
+        "property_color":"eb008a",
+        "attribute_color":"f29333",
+        "keyword_color":"b31e8d",
+        "string_color":"37b349",
+        "variable_color":"eb008a",
+        "def_color":"0e5a94",
+        "bracket_color":"d0d0d0",
+        "tag_color":"eb008a",
+        "header_color":"f8ca12",
+        "link_color":"f29333"
+    }
+}

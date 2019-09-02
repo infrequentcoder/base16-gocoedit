@@ -1,0 +1,29 @@
+{
+    "name": "base16-Isotope",
+    // originator: Jan T. Sott - isotope
+    "defaults": {
+        "text_color":"d0d0d0",
+        "background":"000000",
+        "activeline_background":"606060",
+        "matchingbracket_color":"00ffff"
+    },
+    "gutters": {
+        "background":"404040",
+        "text_color":"808080",
+        "border_color":"404040"
+    },
+    "tokens": {
+        "comment_color":"808080",
+        "number_color":"ff9900",
+        "property_color":"ff0000",
+        "attribute_color":"ff9900",
+        "keyword_color":"cc00ff",
+        "string_color":"33ff00",
+        "variable_color":"ff0000",
+        "def_color":"0066ff",
+        "bracket_color":"d0d0d0",
+        "tag_color":"ff0000",
+        "header_color":"ff0099",
+        "link_color":"ff9900"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Framer",
+    // originator: Framer (Maintained by Jesse Hoyos) - framer
+    "defaults": {
+        "text_color":"D0D0D0",
+        "background":"181818",
+        "activeline_background":"464646",
+        "matchingbracket_color":"ACDDFD"
+    },
+    "gutters": {
+        "background":"151515",
+        "text_color":"747474",
+        "border_color":"151515"
+    },
+    "tokens": {
+        "comment_color":"747474",
+        "number_color":"FC4769",
+        "property_color":"FD886B",
+        "attribute_color":"FC4769",
+        "keyword_color":"BA8CFC",
+        "string_color":"32CCDC",
+        "variable_color":"FD886B",
+        "def_color":"20BCFC",
+        "bracket_color":"D0D0D0",
+        "tag_color":"FD886B",
+        "header_color":"FECB6E",
+        "link_color":"FC4769"
+    }
+}

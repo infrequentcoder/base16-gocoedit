@@ -1,0 +1,29 @@
+{
+    "name": "base16-Tomorrow Night",
+    // originator: Chris Kempson (http://chriskempson.com) - tomorrow-night-eighties
+    "defaults": {
+        "text_color":"cccccc",
+        "background":"2d2d2d",
+        "activeline_background":"515151",
+        "matchingbracket_color":"66cccc"
+    },
+    "gutters": {
+        "background":"393939",
+        "text_color":"999999",
+        "border_color":"393939"
+    },
+    "tokens": {
+        "comment_color":"999999",
+        "number_color":"f99157",
+        "property_color":"f2777a",
+        "attribute_color":"f99157",
+        "keyword_color":"cc99cc",
+        "string_color":"99cc99",
+        "variable_color":"f2777a",
+        "def_color":"6699cc",
+        "bracket_color":"cccccc",
+        "tag_color":"f2777a",
+        "header_color":"ffcc66",
+        "link_color":"f99157"
+    }
+}

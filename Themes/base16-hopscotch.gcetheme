@@ -1,0 +1,29 @@
+{
+    "name": "base16-Hopscotch",
+    // originator: Jan T. Sott - hopscotch
+    "defaults": {
+        "text_color":"b9b5b8",
+        "background":"322931",
+        "activeline_background":"5c545b",
+        "matchingbracket_color":"149b93"
+    },
+    "gutters": {
+        "background":"433b42",
+        "text_color":"797379",
+        "border_color":"433b42"
+    },
+    "tokens": {
+        "comment_color":"797379",
+        "number_color":"fd8b19",
+        "property_color":"dd464c",
+        "attribute_color":"fd8b19",
+        "keyword_color":"c85e7c",
+        "string_color":"8fc13e",
+        "variable_color":"dd464c",
+        "def_color":"1290bf",
+        "bracket_color":"b9b5b8",
+        "tag_color":"dd464c",
+        "header_color":"fdcc59",
+        "link_color":"fd8b19"
+    }
+}

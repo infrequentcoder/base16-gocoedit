@@ -1,0 +1,29 @@
+{
+    "name": "base16-Shapeshifter",
+    // originator: Tyler Benziger (http://tybenz.com) - shapeshifter
+    "defaults": {
+        "text_color":"102015",
+        "background":"f9f9f9",
+        "activeline_background":"ababab",
+        "matchingbracket_color":"23edda"
+    },
+    "gutters": {
+        "background":"e0e0e0",
+        "text_color":"555555",
+        "border_color":"e0e0e0"
+    },
+    "tokens": {
+        "comment_color":"555555",
+        "number_color":"e09448",
+        "property_color":"e92f2f",
+        "attribute_color":"e09448",
+        "keyword_color":"f996e2",
+        "string_color":"0ed839",
+        "variable_color":"e92f2f",
+        "def_color":"3b48e3",
+        "bracket_color":"102015",
+        "tag_color":"e92f2f",
+        "header_color":"dddd13",
+        "link_color":"e09448"
+    }
+}

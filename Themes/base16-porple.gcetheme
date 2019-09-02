@@ -1,0 +1,29 @@
+{
+    "name": "base16-Porple",
+    // originator: Niek den Breeje (https://github.com/AuditeMarlow) - porple
+    "defaults": {
+        "text_color":"d8d8d8",
+        "background":"292c36",
+        "activeline_background":"474160",
+        "matchingbracket_color":"64878f"
+    },
+    "gutters": {
+        "background":"333344",
+        "text_color":"65568a",
+        "border_color":"333344"
+    },
+    "tokens": {
+        "comment_color":"65568a",
+        "number_color":"d28e5d",
+        "property_color":"f84547",
+        "attribute_color":"d28e5d",
+        "keyword_color":"b74989",
+        "string_color":"95c76f",
+        "variable_color":"f84547",
+        "def_color":"8485ce",
+        "bracket_color":"d8d8d8",
+        "tag_color":"f84547",
+        "header_color":"efa16b",
+        "link_color":"d28e5d"
+    }
+}

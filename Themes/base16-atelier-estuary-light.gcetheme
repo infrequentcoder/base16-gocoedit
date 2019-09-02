@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Estuary Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-estuary-light
+    "defaults": {
+        "text_color":"5f5e4e",
+        "background":"f4f3ec",
+        "activeline_background":"929181",
+        "matchingbracket_color":"5b9d48"
+    },
+    "gutters": {
+        "background":"e7e6df",
+        "text_color":"878573",
+        "border_color":"e7e6df"
+    },
+    "tokens": {
+        "comment_color":"878573",
+        "number_color":"ae7313",
+        "property_color":"ba6236",
+        "attribute_color":"ae7313",
+        "keyword_color":"5f9182",
+        "string_color":"7d9726",
+        "variable_color":"ba6236",
+        "def_color":"36a166",
+        "bracket_color":"5f5e4e",
+        "tag_color":"ba6236",
+        "header_color":"a5980d",
+        "link_color":"ae7313"
+    }
+}

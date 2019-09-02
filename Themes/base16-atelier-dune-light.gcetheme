@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Dune Light",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-dune-light
+    "defaults": {
+        "text_color":"6e6b5e",
+        "background":"fefbec",
+        "activeline_background":"a6a28c",
+        "matchingbracket_color":"1fad83"
+    },
+    "gutters": {
+        "background":"e8e4cf",
+        "text_color":"999580",
+        "border_color":"e8e4cf"
+    },
+    "tokens": {
+        "comment_color":"999580",
+        "number_color":"b65611",
+        "property_color":"d73737",
+        "attribute_color":"b65611",
+        "keyword_color":"b854d4",
+        "string_color":"60ac39",
+        "variable_color":"d73737",
+        "def_color":"6684e1",
+        "bracket_color":"6e6b5e",
+        "tag_color":"d73737",
+        "header_color":"ae9513",
+        "link_color":"b65611"
+    }
+}

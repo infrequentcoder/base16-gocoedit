@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Heath",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-heath
+    "defaults": {
+        "text_color":"ab9bab",
+        "background":"1b181b",
+        "activeline_background":"695d69",
+        "matchingbracket_color":"159393"
+    },
+    "gutters": {
+        "background":"292329",
+        "text_color":"776977",
+        "border_color":"292329"
+    },
+    "tokens": {
+        "comment_color":"776977",
+        "number_color":"a65926",
+        "property_color":"ca402b",
+        "attribute_color":"a65926",
+        "keyword_color":"7b59c0",
+        "string_color":"918b3b",
+        "variable_color":"ca402b",
+        "def_color":"516aec",
+        "bracket_color":"ab9bab",
+        "tag_color":"ca402b",
+        "header_color":"bb8a35",
+        "link_color":"a65926"
+    }
+}

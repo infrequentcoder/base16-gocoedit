@@ -1,0 +1,29 @@
+{
+    "name": "base16-Material",
+    // originator: Nate Peterson - material
+    "defaults": {
+        "text_color":"EEFFFF",
+        "background":"263238",
+        "activeline_background":"314549",
+        "matchingbracket_color":"89DDFF"
+    },
+    "gutters": {
+        "background":"2E3C43",
+        "text_color":"546E7A",
+        "border_color":"2E3C43"
+    },
+    "tokens": {
+        "comment_color":"546E7A",
+        "number_color":"F78C6C",
+        "property_color":"F07178",
+        "attribute_color":"F78C6C",
+        "keyword_color":"C792EA",
+        "string_color":"C3E88D",
+        "variable_color":"F07178",
+        "def_color":"82AAFF",
+        "bracket_color":"EEFFFF",
+        "tag_color":"F07178",
+        "header_color":"FFCB6B",
+        "link_color":"F78C6C"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Espresso",
+    // originator: Alex Mirrington (https://github.com/alexmirrington) - espresso
+    "defaults": {
+        "text_color":"cccccc",
+        "background":"2d2d2d",
+        "activeline_background":"515151",
+        "matchingbracket_color":"bed6ff"
+    },
+    "gutters": {
+        "background":"393939",
+        "text_color":"777777",
+        "border_color":"393939"
+    },
+    "tokens": {
+        "comment_color":"777777",
+        "number_color":"f9a959",
+        "property_color":"d25252",
+        "attribute_color":"f9a959",
+        "keyword_color":"d197d9",
+        "string_color":"a5c261",
+        "variable_color":"d25252",
+        "def_color":"6c99bb",
+        "bracket_color":"cccccc",
+        "tag_color":"d25252",
+        "header_color":"ffc66d",
+        "link_color":"f9a959"
+    }
+}

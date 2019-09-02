@@ -1,0 +1,29 @@
+{
+    "name": "base16-Materia",
+    // originator: Defman21 - materia
+    "defaults": {
+        "text_color":"CDD3DE",
+        "background":"263238",
+        "activeline_background":"37474F",
+        "matchingbracket_color":"80CBC4"
+    },
+    "gutters": {
+        "background":"2C393F",
+        "text_color":"707880",
+        "border_color":"2C393F"
+    },
+    "tokens": {
+        "comment_color":"707880",
+        "number_color":"EA9560",
+        "property_color":"EC5F67",
+        "attribute_color":"EA9560",
+        "keyword_color":"82AAFF",
+        "string_color":"8BD649",
+        "variable_color":"EC5F67",
+        "def_color":"89DDFF",
+        "bracket_color":"CDD3DE",
+        "tag_color":"EC5F67",
+        "header_color":"FFCC00",
+        "link_color":"EA9560"
+    }
+}

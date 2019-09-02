@@ -1,0 +1,29 @@
+{
+    "name": "base16-Circus",
+    // originator: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12) - circus
+    "defaults": {
+        "text_color":"a7a7a7",
+        "background":"191919",
+        "activeline_background":"303030",
+        "matchingbracket_color":"4bb1a7"
+    },
+    "gutters": {
+        "background":"202020",
+        "text_color":"5f5a60",
+        "border_color":"202020"
+    },
+    "tokens": {
+        "comment_color":"5f5a60",
+        "number_color":"4bb1a7",
+        "property_color":"dc657d",
+        "attribute_color":"4bb1a7",
+        "keyword_color":"b888e2",
+        "string_color":"84b97c",
+        "variable_color":"dc657d",
+        "def_color":"639ee4",
+        "bracket_color":"a7a7a7",
+        "tag_color":"dc657d",
+        "header_color":"c3ba63",
+        "link_color":"4bb1a7"
+    }
+}

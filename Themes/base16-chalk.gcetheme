@@ -1,0 +1,29 @@
+{
+    "name": "base16-Chalk",
+    // originator: Chris Kempson (http://chriskempson.com) - chalk
+    "defaults": {
+        "text_color":"d0d0d0",
+        "background":"151515",
+        "activeline_background":"303030",
+        "matchingbracket_color":"12cfc0"
+    },
+    "gutters": {
+        "background":"202020",
+        "text_color":"505050",
+        "border_color":"202020"
+    },
+    "tokens": {
+        "comment_color":"505050",
+        "number_color":"eda987",
+        "property_color":"fb9fb1",
+        "attribute_color":"eda987",
+        "keyword_color":"e1a3ee",
+        "string_color":"acc267",
+        "variable_color":"fb9fb1",
+        "def_color":"6fc2ef",
+        "bracket_color":"d0d0d0",
+        "tag_color":"fb9fb1",
+        "header_color":"ddb26f",
+        "link_color":"eda987"
+    }
+}

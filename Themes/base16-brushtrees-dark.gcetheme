@@ -1,0 +1,29 @@
+{
+    "name": "base16-Brush Trees Dark",
+    // originator: Abraham White &lt;abelincoln.white@gmail.com&gt; - brushtrees-dark
+    "defaults": {
+        "text_color":"B0C5C8",
+        "background":"485867",
+        "activeline_background":"6D828E",
+        "matchingbracket_color":"86b3b3"
+    },
+    "gutters": {
+        "background":"5A6D7A",
+        "text_color":"8299A1",
+        "border_color":"5A6D7A"
+    },
+    "tokens": {
+        "comment_color":"8299A1",
+        "number_color":"d8bba2",
+        "property_color":"b38686",
+        "attribute_color":"d8bba2",
+        "keyword_color":"b386b2",
+        "string_color":"87b386",
+        "variable_color":"b38686",
+        "def_color":"868cb3",
+        "bracket_color":"B0C5C8",
+        "tag_color":"b38686",
+        "header_color":"aab386",
+        "link_color":"d8bba2"
+    }
+}

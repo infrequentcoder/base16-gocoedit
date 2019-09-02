@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Savanna",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-savanna
+    "defaults": {
+        "text_color":"87928a",
+        "background":"171c19",
+        "activeline_background":"526057",
+        "matchingbracket_color":"1c9aa0"
+    },
+    "gutters": {
+        "background":"232a25",
+        "text_color":"5f6d64",
+        "border_color":"232a25"
+    },
+    "tokens": {
+        "comment_color":"5f6d64",
+        "number_color":"9f713c",
+        "property_color":"b16139",
+        "attribute_color":"9f713c",
+        "keyword_color":"55859b",
+        "string_color":"489963",
+        "variable_color":"b16139",
+        "def_color":"478c90",
+        "bracket_color":"87928a",
+        "tag_color":"b16139",
+        "header_color":"a07e3b",
+        "link_color":"9f713c"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Marrakesh",
+    // originator: Alexandre Gavioli (http://github.com/Alexx2/) - marrakesh
+    "defaults": {
+        "text_color":"948e48",
+        "background":"201602",
+        "activeline_background":"5f5b17",
+        "matchingbracket_color":"75a738"
+    },
+    "gutters": {
+        "background":"302e00",
+        "text_color":"6c6823",
+        "border_color":"302e00"
+    },
+    "tokens": {
+        "comment_color":"6c6823",
+        "number_color":"b36144",
+        "property_color":"c35359",
+        "attribute_color":"b36144",
+        "keyword_color":"8868b3",
+        "string_color":"18974e",
+        "variable_color":"c35359",
+        "def_color":"477ca1",
+        "bracket_color":"948e48",
+        "tag_color":"c35359",
+        "header_color":"a88339",
+        "link_color":"b36144"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Unikitty Dark",
+    // originator: Josh W Lewis (@joshwlewis) - unikitty-dark
+    "defaults": {
+        "text_color":"bcbabe",
+        "background":"2e2a31",
+        "activeline_background":"666369",
+        "matchingbracket_color":"149bda"
+    },
+    "gutters": {
+        "background":"4a464d",
+        "text_color":"838085",
+        "border_color":"4a464d"
+    },
+    "tokens": {
+        "comment_color":"838085",
+        "number_color":"d65407",
+        "property_color":"d8137f",
+        "attribute_color":"d65407",
+        "keyword_color":"bb60ea",
+        "string_color":"17ad98",
+        "variable_color":"d8137f",
+        "def_color":"796af5",
+        "bracket_color":"bcbabe",
+        "tag_color":"d8137f",
+        "header_color":"dc8a0e",
+        "link_color":"d65407"
+    }
+}

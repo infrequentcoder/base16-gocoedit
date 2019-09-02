@@ -1,0 +1,29 @@
+{
+    "name": "base16-Classic Dark",
+    // originator: Jason Heeris (http://heeris.id.au) - classic-dark
+    "defaults": {
+        "text_color":"D0D0D0",
+        "background":"151515",
+        "activeline_background":"303030",
+        "matchingbracket_color":"75B5AA"
+    },
+    "gutters": {
+        "background":"202020",
+        "text_color":"505050",
+        "border_color":"202020"
+    },
+    "tokens": {
+        "comment_color":"505050",
+        "number_color":"D28445",
+        "property_color":"AC4142",
+        "attribute_color":"D28445",
+        "keyword_color":"AA759F",
+        "string_color":"90A959",
+        "variable_color":"AC4142",
+        "def_color":"6A9FB5",
+        "bracket_color":"D0D0D0",
+        "tag_color":"AC4142",
+        "header_color":"F4BF75",
+        "link_color":"D28445"
+    }
+}

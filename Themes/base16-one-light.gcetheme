@@ -1,0 +1,29 @@
+{
+    "name": "base16-One Light",
+    // originator: Daniel Pfeifer (http://github.com/purpleKarrot) - one-light
+    "defaults": {
+        "text_color":"383a42",
+        "background":"fafafa",
+        "activeline_background":"e5e5e6",
+        "matchingbracket_color":"0184bc"
+    },
+    "gutters": {
+        "background":"f0f0f1",
+        "text_color":"a0a1a7",
+        "border_color":"f0f0f1"
+    },
+    "tokens": {
+        "comment_color":"a0a1a7",
+        "number_color":"d75f00",
+        "property_color":"ca1243",
+        "attribute_color":"d75f00",
+        "keyword_color":"a626a4",
+        "string_color":"50a14f",
+        "variable_color":"ca1243",
+        "def_color":"4078f2",
+        "bracket_color":"383a42",
+        "tag_color":"ca1243",
+        "header_color":"c18401",
+        "link_color":"d75f00"
+    }
+}

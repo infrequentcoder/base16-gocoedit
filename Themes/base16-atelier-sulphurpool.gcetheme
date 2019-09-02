@@ -1,0 +1,29 @@
+{
+    "name": "base16-Atelier Sulphurpool",
+    // originator: Bram de Haan (http://atelierbramdehaan.nl) - atelier-sulphurpool
+    "defaults": {
+        "text_color":"979db4",
+        "background":"202746",
+        "activeline_background":"5e6687",
+        "matchingbracket_color":"22a2c9"
+    },
+    "gutters": {
+        "background":"293256",
+        "text_color":"6b7394",
+        "border_color":"293256"
+    },
+    "tokens": {
+        "comment_color":"6b7394",
+        "number_color":"c76b29",
+        "property_color":"c94922",
+        "attribute_color":"c76b29",
+        "keyword_color":"6679cc",
+        "string_color":"ac9739",
+        "variable_color":"c94922",
+        "def_color":"3d8fd1",
+        "bracket_color":"979db4",
+        "tag_color":"c94922",
+        "header_color":"c08b30",
+        "link_color":"c76b29"
+    }
+}

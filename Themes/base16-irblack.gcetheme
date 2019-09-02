@@ -1,0 +1,29 @@
+{
+    "name": "base16-IR Black",
+    // originator: Timothée Poisot (http://timotheepoisot.fr) - irblack
+    "defaults": {
+        "text_color":"b5b3aa",
+        "background":"000000",
+        "activeline_background":"484844",
+        "matchingbracket_color":"c6c5fe"
+    },
+    "gutters": {
+        "background":"242422",
+        "text_color":"6c6c66",
+        "border_color":"242422"
+    },
+    "tokens": {
+        "comment_color":"6c6c66",
+        "number_color":"e9c062",
+        "property_color":"ff6c60",
+        "attribute_color":"e9c062",
+        "keyword_color":"ff73fd",
+        "string_color":"a8ff60",
+        "variable_color":"ff6c60",
+        "def_color":"96cbfe",
+        "bracket_color":"b5b3aa",
+        "tag_color":"ff6c60",
+        "header_color":"ffffb6",
+        "link_color":"e9c062"
+    }
+}

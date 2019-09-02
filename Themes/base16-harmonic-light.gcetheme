@@ -1,0 +1,29 @@
+{
+    "name": "base16-Harmonic16 Light",
+    // originator: Jannik Siebert (https://github.com/janniks) - harmonic-light
+    "defaults": {
+        "text_color":"405c79",
+        "background":"f7f9fb",
+        "activeline_background":"cbd6e2",
+        "matchingbracket_color":"568bbf"
+    },
+    "gutters": {
+        "background":"e5ebf1",
+        "text_color":"aabcce",
+        "border_color":"e5ebf1"
+    },
+    "tokens": {
+        "comment_color":"aabcce",
+        "number_color":"bfbf56",
+        "property_color":"bf8b56",
+        "attribute_color":"bfbf56",
+        "keyword_color":"bf568b",
+        "string_color":"56bf8b",
+        "variable_color":"bf8b56",
+        "def_color":"8b56bf",
+        "bracket_color":"405c79",
+        "tag_color":"bf8b56",
+        "header_color":"8bbf56",
+        "link_color":"bfbf56"
+    }
+}

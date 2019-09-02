@@ -1,0 +1,29 @@
+{
+    "name": "base16-Darktooth",
+    // originator: Jason Milkins (https://github.com/jasonm23) - darktooth
+    "defaults": {
+        "text_color":"A89984",
+        "background":"1D2021",
+        "activeline_background":"504945",
+        "matchingbracket_color":"8BA59B"
+    },
+    "gutters": {
+        "background":"32302F",
+        "text_color":"665C54",
+        "border_color":"32302F"
+    },
+    "tokens": {
+        "comment_color":"665C54",
+        "number_color":"FE8625",
+        "property_color":"FB543F",
+        "attribute_color":"FE8625",
+        "keyword_color":"8F4673",
+        "string_color":"95C085",
+        "variable_color":"FB543F",
+        "def_color":"0D6678",
+        "bracket_color":"A89984",
+        "tag_color":"FB543F",
+        "header_color":"FAC03B",
+        "link_color":"FE8625"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-OneDark",
+    // originator: Lalit Magant (http://github.com/tilal6991) - onedark
+    "defaults": {
+        "text_color":"abb2bf",
+        "background":"282c34",
+        "activeline_background":"3e4451",
+        "matchingbracket_color":"56b6c2"
+    },
+    "gutters": {
+        "background":"353b45",
+        "text_color":"545862",
+        "border_color":"353b45"
+    },
+    "tokens": {
+        "comment_color":"545862",
+        "number_color":"d19a66",
+        "property_color":"e06c75",
+        "attribute_color":"d19a66",
+        "keyword_color":"c678dd",
+        "string_color":"98c379",
+        "variable_color":"e06c75",
+        "def_color":"61afef",
+        "bracket_color":"abb2bf",
+        "tag_color":"e06c75",
+        "header_color":"e5c07b",
+        "link_color":"d19a66"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "base16-Zenburn",
+    // originator: elnawe - zenburn
+    "defaults": {
+        "text_color":"dcdccc",
+        "background":"383838",
+        "activeline_background":"606060",
+        "matchingbracket_color":"93e0e3"
+    },
+    "gutters": {
+        "background":"404040",
+        "text_color":"6f6f6f",
+        "border_color":"404040"
+    },
+    "tokens": {
+        "comment_color":"6f6f6f",
+        "number_color":"dfaf8f",
+        "property_color":"dca3a3",
+        "attribute_color":"dfaf8f",
+        "keyword_color":"dc8cc3",
+        "string_color":"5f7f5f",
+        "variable_color":"dca3a3",
+        "def_color":"7cb8bb",
+        "bracket_color":"dcdccc",
+        "tag_color":"dca3a3",
+        "header_color":"e0cf9f",
+        "link_color":"dfaf8f"
+    }
+}

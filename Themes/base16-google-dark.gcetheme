@@ -1,0 +1,29 @@
+{
+    "name": "base16-Google Dark",
+    // originator: Seth Wright (http://sethawright.com) - google-dark
+    "defaults": {
+        "text_color":"c5c8c6",
+        "background":"1d1f21",
+        "activeline_background":"373b41",
+        "matchingbracket_color":"3971ED"
+    },
+    "gutters": {
+        "background":"282a2e",
+        "text_color":"969896",
+        "border_color":"282a2e"
+    },
+    "tokens": {
+        "comment_color":"969896",
+        "number_color":"F96A38",
+        "property_color":"CC342B",
+        "attribute_color":"F96A38",
+        "keyword_color":"A36AC7",
+        "string_color":"198844",
+        "variable_color":"CC342B",
+        "def_color":"3971ED",
+        "bracket_color":"c5c8c6",
+        "tag_color":"CC342B",
+        "header_color":"FBA922",
+        "link_color":"F96A38"
+    }
+}
